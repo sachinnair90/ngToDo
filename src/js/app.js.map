@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.ts"],"names":[],"mappings":"AAAA,gDAAgD;AAEhD,OAAO,CAAC,MAAM,CAAC,QAAQ,EAAE,EAAE,CAAC,CAAC;AAC7B,IAAI,CAAC,GAAG,EAAE,CAAC","file":"app.js","sourcesContent":["/// <reference path='..\\..\\typings\\index.d.ts'/>\r\n\r\nangular.module(\"ngToDo\", []);\r\nlet a = 10;\r\n"],"sourceRoot":"/source/"}
